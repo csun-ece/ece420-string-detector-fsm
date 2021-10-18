@@ -2,7 +2,7 @@
 **California State University, Northridge**  
 **Department of Electrical and Computer Engineering**  
 
-## Lab 4 - Part 2 ASCII-sequence detector
+## Lab 5 - FSM ASCII string pattern detector
 
 ## Objective
 
